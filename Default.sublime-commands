@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "JavaScript Evaluate: Evaluate selection and replace with result",
+    "command": "javascript_evaluate_selection"
+  }
+]
